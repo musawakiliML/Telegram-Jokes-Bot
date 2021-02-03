@@ -1,1 +1,2 @@
-# Telegram_jokes
+# Telegram Jokes Bot
+This bot randomly sends you joke.
